@@ -1,0 +1,3 @@
+1) First Activate the loader
+2) Then Check All the Css Props
+3) All Comments For fomalties.  
