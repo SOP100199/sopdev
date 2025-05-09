@@ -401,7 +401,7 @@ li a:hover{
     font-family: "Roboto Mono", monospace;
     position: relative;
     top: 30px;
-    background:  linear-gradient(100deg, rgba(174,34,195,1) 17%, rgba(2,233,227,1) 48%, rgba(181,129,102,1) 76%, rgba(253,187,45,1) 100%);
+    background: linear-gradient( 89.9deg,  rgba(238,3,3,1) 0%, rgba(0,22,145,1) 99.8% );
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent; 
